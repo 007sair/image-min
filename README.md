@@ -13,9 +13,6 @@ yarn min
 yarn webp
 ```
 
-程序会将`src`目录下的`png`、`jpg`压缩到`dist`目录。
-
-
 ## 关于 jpeg 的图片格式
 
 我们使用 photoshop 将一个 jpg 图片 `存储为web所用格式`时，在面板中会出现`连续`和`优化`的选项。
