@@ -28,3 +28,9 @@ yarn webp
 可以通过[命令行工具](https://www.npmjs.com/package/is-progressive-cli)检查 JPEG 图像是否是渐进式的。
 
 这里有介绍过使用渐进式 JPEG 的[优点](https://images.guide/#the-advantages-of-progressive-jpegs)和[缺点](https://images.guide/#the-disadvantages-of-progressive-jpegs)。
+
+
+## TODO
+
+- [ ] 增加[imagemin-svgo](https://github.com/imagemin/imagemin-svgo) 
+- [ ] 增加[imagemin-gifsicle](https://github.com/imagemin/imagemin-gifsicle) 
