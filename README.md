@@ -1,5 +1,7 @@
 # 图片压缩
 
+> From: [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
+
 ## 使用
 
 ```ruby
