@@ -1,0 +1,20 @@
+{
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "min": "node imagemin.js",
+    "webp": "node imagewebp.js"
+  },
+  "author": "lc",
+  "license": "ISC",
+  "devDependencies": {
+    "imagemin-input": "^0.5.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^7.0.0",
+    "imagemin-webp": "^5.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
