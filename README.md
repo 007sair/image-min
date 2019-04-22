@@ -1,5 +1,7 @@
 # 图片压缩
 
+> From: [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
+
 ## 使用
 
 ```ruby
@@ -34,5 +36,5 @@ yarn webp
 
 ## TODO
 
-- [ ] 增加[imagemin-svgo](https://github.com/imagemin/imagemin-svgo)
-- [ ] 增加[imagemin-gifsicle](https://github.com/imagemin/imagemin-gifsicle)
+- [x] 增加[imagemin-svgo](https://github.com/imagemin/imagemin-svgo)
+- [x] 增加[imagemin-gifsicle](https://github.com/imagemin/imagemin-gifsicle)
