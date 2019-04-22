@@ -11,9 +11,11 @@
   "author": "lc",
   "license": "ISC",
   "devDependencies": {
+    "imagemin-gifsicle": "^6.0.1",
     "imagemin-input": "^0.5.0",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-pngquant": "^7.0.0",
+    "imagemin-svgo": "^7.0.0",
     "imagemin-webp": "^5.0.0",
     "shelljs": "^0.8.3",
     "yargs": "^13.2.2"
